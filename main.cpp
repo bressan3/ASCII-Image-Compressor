@@ -30,7 +30,7 @@ typedef struct leituraArquivo{
 
 //IMPORTANTE (como foi feito no mac eu tive que especificar o caminho ate o diretorio completo):
 //diretorio do arquivo a ser comprimido
-string path = "/Users/Lucas/Desktop/Trabalho/Trabalho ED II C++/Trabalho ED II C++/";
+string path = "/~/Desktop/Trabalho/Trabalho ED II C++/Trabalho ED II C++/";
 double media = 0;
 int contArq = 0;
 
